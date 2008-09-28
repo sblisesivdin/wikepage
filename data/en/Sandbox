@@ -1,9 +1,11 @@
 !hi folks..
-!! a smaller title...
+!!a smaller title...
 !!! smallest title
 
 sound test
- quotes begin with a single space
+ one
+ two
+ phhh
 
 __underlined__ **bold** \'\'italic\'\' or ::in box::
 
@@ -25,8 +27,6 @@ __underlined__ **bold** \'\'italic\'\' or ::in box::
 * URL link with an explanation: [http://www.wikepage.org/|Wikepage homesite]
 * Simple URL: [http://www.cyrocom.com]
 * Linked picture: [http://www.cyrocom.com/|wike.gif]
-* Email: [sblisesivdin@gmail.com]
-* Boxed image: First image is thumbnail and second is the original {wike.gif|wikepage|wike.gif}
 
 
 **Table**

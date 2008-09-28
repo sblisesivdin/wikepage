@@ -13,33 +13,30 @@
         <meta name="keywords" content="<!--wikiname-->" />
         </head>
         <body>
-                <div id="wikepage"><a href="http://www.binarymethod.com/wikepage/index.php"><!--sitename--></a></div>
+                <div id="wikepage"><a href="index.php"><!--sitename--></a></div>
                 <div id="title"><!--wikiname--> <!--lang_editing-->... </div>
-                <hr>
+                <hr />
                 <form method="post" enctype="multipart/form-data" action="index.php?wiki=<!--wikiname-->">
-                <input name="blogedit" value="yes" type="hidden">
+                <input type="hidden" name="blogedit" value="yes">
   <p> <!--lang_pass--><!--uploadsystem-->
-    <input value="<!--submit-->" name="submit" type="submit">
+    <input type="submit" value="<!--submit-->" name="submit" />
     
   </p>
-  <table border="0" cellpadding="0" cellspacing="0" width="776">
-    <tbody><tr> <td>
-    	<b><!--lang_blog_image--></b><br>
-			<select size="1" name="blogimage">
-    	<!--blog_imagelist-->
-			</select><br>
-      <b><!--lang_blog_subject--></b><br>
-        <input type="text" name="subject" size="80" value="<!--subject-->" />
-      <br><b><!--lang_blog_page--></b><br>
-       <textarea name="content" cols="80" rows="20" wrap="soft"><!--already--></textarea>
+  <table width="776" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <b><!--lang_newentrysubject--></b><br>
+        <input type="text" name="subject" size="80" value="<!--subject-->">
+      <br /><b><!--lang_newentrypage--></b><br />
+        <textarea name="content" cols="80" rows="20" wrap="soft"><!--already--></textarea>
       </td>
     </tr>
-  </tbody></table>
-  <p><br>
+  </table>
+  <p><br />
   </p>
   <p>&nbsp;</p>
                 </form>
                 <!--copyleft-->
-                <hr>
+                <hr />
                 <!--writingrules-->
-        </body></html>
+        </body>
+</html>

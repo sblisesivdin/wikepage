@@ -1,3 +1,5 @@
+[Wikepage] is a wiki-standart databaseless php powered wiki-software.
+
 !! Markup Language
 * One * before line, make list.
 * One ! before line make <h1> - big title
@@ -14,13 +16,10 @@
 * Wikepage used [Wiki_word] type links whish used \'_\' as whitespace. For make a new page just make a link in a page like [Word] and then save and use the link. When you use link, page\'ll created.
 * If you want to link to something external, you could just type the url like [http://www.wikepage.org/] and if it is valid, it will be clickable
 * To make external links more beautiful, there is another version link can be used to create something [http://www.cyrocom.com|like this], or to a static page [Index|like this]
-* If you write a email address (without mailto:) between [ ], email address will be displayed like [sblisesivdin@gmail.com].
 * If you put the url of a picture between such [ ] brackets, the image will be displayed.
-* Boxed image, using:{a|b|c} (a)thumbnail image, (b)caption (c)original image. Original image will be resized to width of 468 pixels, if bigger than that. If you click, you can view original image. Example: {wike.gif|Caption of image|wike.gif}
 * You can use static picture\'s names which can be found in data/files folder.
 For example :[wike.gif], But if you want to use linked image then: [http://www.cyrocom.com/|wike.gif]
- PS: You can\'t link URL pictures.
- Only local pictures can be linked.
+ PS: You can\'t link URL pictures. Only local pictures can be linked.
 
 !! Special Pages
 * Information in [Last_changes] page is created with writing \'\'< lastchanges >\'\' (without whitespaces) in source of page. 
@@ -42,10 +41,6 @@ Wikepage has table support.Just begin the line with 4 pipes (|), for each column
 ||||**Website**||**Link**||||
 ||||Cyrocom Homepage||[http://www.cyrocom.com/]||||
 ||||SBLisesivdin Homepage||[http://www.cyrocom.com/sblisesivdin]||||
-
-!! RSS Feeds
-Wikepage has a maximum of one RSS feed support per page. To include a RSS feed into any page just begin with 2 special parenthesis ({), then write URL of feed , then  put a pipe (|) and then write how many feed that you want to show in your page, and close with 2 special parenthesis (}).
-{{http://www.wikepage.org/index.php?rss=blog|1}}  
 
 !! Coloring
 For coloring: Just begin with 2 sharps (#) then input color name and 2 sharps more.. then write the writings that will be colored, then 2 sharps to close. Entered colors used in font tag. Colors are Black, Silver, Gray, Maroon, Red, Purple, Fuchsia, Green, Lime, Olive, Yellow, Navy, Blue, Teal, Aqua and White of course. Or use RGB codes like #FF9900.
