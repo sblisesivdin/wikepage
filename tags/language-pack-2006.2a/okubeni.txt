@@ -1,0 +1,48 @@
+Cyrocom Wiki sitesi/Kiþisel site Yazýlýmý
+WIKEPAGE Opus 10 Sürüm 2006.2a (Kod ismi: Maxwell-Boltzmann)
+-----------------------------------------------------------------------------------------
+Wikepage yazýlýmý, paylaþma amacýyla yapýlmýþ, herkesin sayfa yapabilmesi ve
+paylaþabilmesi amacýyla yapýlmýþtýr.
+
+Wikepage iki moda sahiptir:
+
+-Wiki Modu: Sayfalar ve blog þifre girmeden deðiþtirilebilir.
+-Kiþisel Modu: Sayfalar ve blog ancak þifre ile deðiþtirilebilir. 
+
+
+*KURULUM:
+-index.php dosyasýný notepad benzeri bir programla açýn. Ve kodun baþýnda ki site
+ bilgisi, dil ve ayarlarý kendinize göre yapýn.
+-Kurulum için internet sitenizin kurmak istediðiniz dizinine dosyalarý kopyalayýn.
+-Daha sonra data dizinini ve içindeki dizinleri dosyalarý yazýlabilir hale getirin.
+ (FTP yazýlýmýnýzla yapabilirsiniz Chmod 777, yada en azýndan 755, ama bazý sitelerde
+ sorun çýkabilir.)
+-PHP'nizin safe_mode'da çalýþtýrmayýn. Wiki sayfalarýný oluþturtmaz. safe_mode zorunlu
+ ise zaten iþinizi biliyorsunuz demektir. Ayarýný yapýn :)
+-Sitenize yeni dil eklemek istiyorsanýz, http://www.wikepage.org/ adresinden indirin
+ ve sitenizin taban dizinine açýn. index.php dosyasýnda ki tanýmlý dil (default language) ayarýný yapýn
+ (normalde ingilizce). Artýk sitenizde [index.php?lng=en|English] [index.php?lng=tr|Turkce] turu
+ linklerle diller arasý geçiþ yapabilirsiniz.
+-Sitenize tarayýcýnýzla bakýn. Þifrenizi belirleyene kadar yönetim sayfasýna yönlendirileceksiniz.
+ Þifre belirleyin.
+-Siteniz Wiki modunda çalýþmaya baþlamýþtýr.
+-Sitenizin içeriðinin bu þifrenizle korunmasý için (Kiþisel moda geçiþ)tekrar yönetime
+ gelip þifresiz yazma modunu kapatýn.
+-Blog kullanmak istiyorsanýz Yönetim sayfasýndan yeni girdi yapabilir, yada 
+ [index.php?Blog_Girdi|Yeni blog girdis] türünde bir link kullanabilirsiniz..
+- Blog'unuzu görmek için herhangi bir sayfanýza "<blog_izle>" yazmanýz yeterlidir.
+
+Artýk sayfalarýnýza ulaþabilirsiniz. Hazýr gelen kurulumda size wikiyi ve yazým kurallarýný
+öðreten sayfalar bulunur.
+
+*LÝSANS
+Program GNU/GPL lisanslýdýr. Lisans koþullarý için:
+[ http://www.gnu.org ]
+
+*DÝKKAT EDÝLMESÝ GEREKENLER
+-Dizin yazma, kullanýcý ayarlarýný doðru yaptýysanýz, yazýlýmýnýzýn çalýþmasý lazým. Mozilla
+ browserlarda oluþturulmak istenen sayfa isimlerine garip karakterler atabiliyor. Bunun için
+ sayfa isimlerinde ingilizce karakterler kullanmaya özen gösterin.
+
+-Ayrýca safe_mode'u bazý hosting firmalarý kullanabiliyor. O zaman tabiiki dosya
+ oluþturulamamadan doðan bir sorun doðar.
