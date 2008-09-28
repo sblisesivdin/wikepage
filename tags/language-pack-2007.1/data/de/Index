@@ -1,0 +1,19 @@
+! Willkommen bei [Wikepage].
+Dies ist Version 2006.2 (Maxwell-Boltzmann). Danke für die Entscheidung für Wikepage. Wikepage baut auf Wiki-Standards auf, ist leicht zu bedienen, läuft ohne MySQL und ist eine sehr kleine Wiki-Software.
+
+Wikepage ist ein kleines Wiki. Bitte erwartet keine mächtigen Wiki-Eigenschaften von Wikepage.
+ ##red##**WICHTIG:** Bitte zuerst die Dokumention lesen,
+ bevor eine Seite erstellt wird! (findet sich im doc-Ordner)##
+
+!! Neuigkeiten
+Bitte helft die Internationalisierung von Wikepage voranzutreiben. Dazu die Dateien in lang/en in der entsprechenden Sprache übersetzen und mailen. (\'\'sblisesivdin-AT-gmail.com\'\')
+!! Index
+* [Was_ist_ein_Wiki] - Informationen zu Wikis und ihrer Geschichte
+* [Wiki_Stil] - Verwendung und Dokumentation
+* [Sandkasten] - zum Austoben und Testen...
+* [Ueber_Blog] - Ein Experiment: Bloggen mit Wikepage? 
+
+!! Blog
+<blog_ansicht>
+
+Wikepage ist unter einer freien Lizenz ([http://www.fsf.org/licensing/licenses/gpl.html|GPL] - GNU General Public Licence) von Cyrocom geschrieben.

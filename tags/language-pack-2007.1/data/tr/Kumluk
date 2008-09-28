@@ -1,0 +1,34 @@
+Turkce karakterler:
+ðüþýöç
+ÐÜÞÝÖÇ
+!meraba
+!!yine baþlýk
+!!!küçüldü de küçüldü  ...
+ses
+ bir
+ ki
+
+__altýçizgi__ **koyu** \'\'italik\'\' ve ::kutu::
+
+* listeler
+* uzun
+* uzun
+
+---
+
+*böyle olunca liste çalýþmaz
+* böyle olacak
+
+**Resim:**
+[wike.gif]
+
+**Linkler**
+* Statik sayfa linki: [Ana_Sayfa]
+* Açýklamalý statik sayfa linki: [Ana_Sayfa|Bu sitenin ana sayfasi]
+* Açýklamalý URL link: [http://www.wikepage.org/|Wikepage sitesi]
+* Basit URL: [http://www.cyrocom.com]
+* Linkli resim: [http://www.cyrocom.com/|wike.gif]
+
+##red##Bu renk gerçekten seksi.##
+
+---blub
