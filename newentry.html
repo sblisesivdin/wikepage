@@ -17,16 +17,16 @@
                 <div id="title"><a href="index.php?wiki=<!--wikiname-->"><!--wikiname--></a> <!--lang_editing-->...</div>
                 <hr />
                 <form method="post" enctype="multipart/form-data" action="index.php?wiki=<!--wikiname-->">
+                <input type="hidden" name="blogedit" value="yes">
   <p> <!--lang_pass--><!--uploadsystem-->
-    <input type="submit" value="<!--submit-->" name="submit" />
+    <input type="submit" value="Submit" name="submit" />
     
   </p>
   <table width="776" border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td width="185"> <b><!--lang_mainmenu--></b><br />
-        <textarea name="menucontent" cols="30" rows="20" wrap="soft"><!--mainmenu--></textarea>
-      </td>
-      <td width="591"> <b><!--lang_pagecontents--></b><br />
+      <b><!--lang_newentrysubject--></b><br>
+        <input type="text" name="subject" size="80" value="<!--subject-->">
+      <br><b><!--lang_newentrypage--></b><br>
         <textarea name="content" cols="80" rows="20" wrap="soft"><!--already--></textarea>
       </td>
     </tr>

@@ -1,3 +1,4 @@
+ 
 * [Index]
 * [Recent_changes]
 * [Search]
@@ -6,16 +7,15 @@
 * [Sandbox]
 * [Wiki_style]
 * [About_Blog]
-* [Blog_Archive]
 
 **Languages**
+[en.gif] [index.php?lng=en|English]
 
-[lng=en|en.gif] [lng=en|English]
 
-[http://www.wikepage.org/|wike.gif]
+[http://www.cyrocom.com/|wike.gif]
 
 [nofollow.gif]
 
-[rss=yes|rss_wiki.gif]
+[index.php?rss=yes|rss_wiki.gif]
 
-[rss=blog|rss_blog.gif]
+[index.php?rss=blog|rss_blog.gif]
