@@ -6,13 +6,12 @@
 * [Sandbox]
 * [Wiki_style]
 * [About_Blog]
-* [Blog_Archive]
 
 **Languages**
 
 [lng=en|en.gif] [lng=en|English]
 
-[http://www.wikepage.org/|wike.gif]
+[http://www.cyrocom.com/|wike.gif]
 
 [nofollow.gif]
 
