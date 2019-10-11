@@ -25,6 +25,8 @@ I am happy to announce that Wikepage has a new developer. Jose N. Medeiros will 
 
 For a while, I am so busy and I can't pay attention to wike. And I think from now on I will not. Personally, wikepage was like a home for me. It was my last connection to my old formation "Cyrocom". For a 30Kb script, it worked well! A homepage, a work page, a blog... In every scenario, I used it. With over 17000 downloads, it is used in many sites. In Fig.1, download number versus date is shown. 
 
+![Download Statistics](https://github.com/sblisesivdin/wikepage/blob/gh-pages/wikepage-download.png)
+
 Fig. 1 Wikepage download statistics
 
 ## Spanish Translation
